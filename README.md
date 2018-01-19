@@ -1,7 +1,5 @@
 # ADC
 
-## Description
-
 This C++ program reads sampled signal values from a text file (`values.txt`) and calculates various properties of the signal, including minimum and maximum values, amplitude, DC offset, period, frequency, angular frequency, phase angle, RMS, and calculation time.
 
 The program assumes uniform sampling at a fixed frequency (`f = 15000 Hz`).
